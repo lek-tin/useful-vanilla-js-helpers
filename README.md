@@ -1,2 +1,5 @@
 # useful-vanilla-js-helpers
-Useful vanilla JavaScript helpers, properties and functions
+Useful and lightweight vanilla JavaScript functions for any projects
+
+### Inspirations
+- https://davidwalsh.name/essential-javascript-functions

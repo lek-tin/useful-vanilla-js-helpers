@@ -12,3 +12,9 @@ for (key in array) {
 		// Do stuff
 	})
 }
+
+var if_console = function() {
+	if ( console ) {
+		return console;
+	}
+}
